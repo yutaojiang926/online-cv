@@ -51,12 +51,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Dedicated meticulous software engineer with B.S. in Mathematics-Computer Science from Univeristy of California,
+      San Diego. Eager to learn and adapt to new and interesting work environments. Currently aquiring new skills for
+      ever changing job market.
 education:
     title: Education
     info:
@@ -64,13 +61,9 @@ education:
         university: Univeristy of California, San Diego
         time: 2016-2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Studied Mathematics and Computer Science for 4 years at the University of California, San Diego. Worked on
+          projects using C, C++, Java, and became familiar with many technooglies including Docker, Github, Linux, numerous
+          IDEs. Expierenced reading and wiritng software documenetation.
 experiences:
     title: Work Experience
     info:
@@ -79,25 +72,22 @@ experiences:
         company: CalCastle International
         details: |
           Managed multiple online marketplaces by generating engaging product listings, managing orders and inventory,
-          protecting brand integrity, and maintaining account health and standing.
+          protecting brand integrity, and maintaining account health and standing. Created online wholesale website at
+          CalCastleInternational.com to display company catalog of goods. Maintained retail website at e-craftsupply.com.
+          Interfaced with management about product performance and produced leads on how to improve sales. Used creative
+          problem solving skills to ensure smooth operations.
       - role: Independent Tutor
         time: 2020-2021
         company: Independent
         details: |
-          Worked as private tutor teaching high school and college level subjects. Travelled to student 
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Worked as private tutor teaching high school and college level subjects. Helped students learn and fully understand
+          topics includin Mathematics, History, English, and Science.
+      - role: Licensed Life, Accident, and Health Insurance Agent
+        time: 2017 - 2021
+        company: TransGlobal
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Worked as licensed Life, Accident, and Health Insurance Agent. Explained product plans to clients to produce
+          sales and long term business relationships.
 projects:
     title: Projects
     intro: >
